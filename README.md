@@ -1,3 +1,3 @@
 Простейшая программа суммы двух цифр на Android
 
-![Screenshot](screenshot.png)
+![Screenshot](1.png)
